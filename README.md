@@ -48,7 +48,17 @@ Combines the smooth color image with the edge map to get the final
 ```pip install opencv-python```<br/>
 **Run the script:**<br/>
 ```python cartoonizer.py```
-Output will be saved as Cartoon version.jpg.<br/>
+Output will be saved as cartoonising_output.png.<br/>
+
+## 🧾 Input Image
+
+![Input](cartoonising_input.png)
+
+## 🎨 Cartoonized Output
+
+![Cartoon Output](cartoonising_output.png)
+
+
 
 ## 📁 Dependencies
 Python<br/>
